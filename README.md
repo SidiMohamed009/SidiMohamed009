@@ -14,11 +14,6 @@ I am a passionate software developer from Mauritania, specializing in building m
 | **Mobile** | ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white) ![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white) |
 | **Database** | ![PostgreSQL](https://img.shields.io/badge/postgresql-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white) |
 
----
-
-### 📊 GitHub Stats
-![SidiMohamed's GitHub stats](https://github-readme-stats.vercel.app/api?username=SidiMohamed009&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SidiMohamed009&layout=compact&theme=radical)
 
 ---
 
